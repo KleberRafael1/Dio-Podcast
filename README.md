@@ -2,47 +2,43 @@
 
 Projeto desenvolvido durante um desafio da **DIO (Digital Innovation One)** utilizando ferramentas de **Inteligência Artificial para criação de conteúdo**.
 
+## 🖼️ Capa do Podcast
+
+![Capa do Podcast](Podcast - Capa.jpg)
+
+## 🎧 Ouça o episódio
+
+[▶️ Ouvir o podcast](cleitinho-fubyte.mp3)
+
 ## 🤖 Sobre o projeto
 
-Criação de um podcast utilizando IA para geração de texto e áudio.
+Criação de um podcast utilizando **IA generativa** para desenvolver roteiro e produção de áudio.
 
-O projeto inclui:
+Etapas do projeto:
 
 - criação do personagem
 - desenvolvimento da história
-- geração de roteiro
-- produção do áudio com ferramentas de IA
+- geração de roteiro com IA
+- produção do áudio
 
 ## 🐶 Personagem
 
 **Cleitinho Fubyte**, o cachorro caramelo aventureiro que se torna um Jedi em uma missão intergaláctica.
 
-## 🌌 História
-
-Em uma galáxia muito, muito distante, Cleitinho Fubyte, o cachorro caramelo aventureiro, encontrou-se em uma missão intergaláctica. Tudo começou quando ele acidentalmente ativou um holograma antigo enquanto brincava com um controle remoto encontrado debaixo do sofá.
-
-O holograma era da **Princesa Leia**, pedindo ajuda para salvar a galáxia.
-
-Com sua astúcia canina, Cleitinho embarca em uma jornada cheia de desafios, enfrentando stormtroopers, tempestades de areia e jawas travessos ao lado de seu fiel companheiro, um androide molengóide.
-
-Ao final da missão, Cleitinho entrega os planos secretos para a Aliança Rebelde e recebe como recompensa:
-
-🦴 um osso gigante  
-🎮 um Playstation 2 com Resident Evil Nemesis
-
 ## 🛠️ Ferramentas utilizadas
 
-- Inteligência Artificial para geração de roteiro
+- ChatGPT
 - Ferramentas de geração de voz
+- Ferramentas de geração de imagem
 - Edição de áudio
 
-## 🎯 Objetivo do desafio
+## 🎯 Objetivo
 
-Explorar o uso de **IA generativa na criação de conteúdo digital**, como:
+Explorar o uso de **Inteligência Artificial na criação de conteúdo digital**, como:
 
-- roteiros
 - storytelling
-- produção de podcast
+- roteiro
+- podcast
 
 ## 👨‍💻 Autor
 
