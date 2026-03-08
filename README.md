@@ -4,7 +4,7 @@ Projeto desenvolvido durante um desafio da **DIO (Digital Innovation One)** util
 
 ## 🖼️ Capa do Podcast
 
-![Capa do Podcast](Podcast - Capa.jpg)
+![Capa do Podcast](capa.jpg)
 
 ## 🎧 Ouça o episódio
 
